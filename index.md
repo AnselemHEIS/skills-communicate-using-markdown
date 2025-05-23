@@ -10,3 +10,7 @@
 ``` python
 print("Hello World!")
 ```
+<!-- Creating lists -->
+- [x] Create my first repository
+- [x] learning Markdown
+- [ ] Set my Profile Readme
